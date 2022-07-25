@@ -1,11 +1,11 @@
 <template>
-<div>
+  <div>
     <Nav></Nav>
     <Header></Header>
     <Aside></Aside>
     <Main></Main>
     <Footer></Footer>
-</div>
+  </div>
 </template>
 
 <script>
@@ -16,14 +16,14 @@ import Aside from "./homePage/Aside";
 import Main from "./homePage/Main";
 import Footer from "./homePage/Footer";
 export default {
-    components: {
-        Nav,
-        Header,
-        Aside,
-        Main,
-        Footer
-    },
-    name:'homePage'
+  components: {
+    Nav,
+    Header,
+    Aside,
+    Main,
+    Footer,
+  },
+  name: "homePage",
 };
 </script>
 
