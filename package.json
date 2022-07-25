@@ -1,0 +1,17 @@
+{
+  "name": "my_Blog",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "amfe-flexible": "^2.2.1",
+    "postcss-px2rem": "^0.3.0",
+    "vue": "^3.0.4"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.4",
+    "vite": "^1.0.0-rc.13"
+  }
+}
