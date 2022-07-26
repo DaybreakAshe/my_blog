@@ -10,11 +10,11 @@
 
 <script>
 // 引入该页面的各部分组件
-import Nav from "./homePage/Nav";
-import Header from "./homePage/Header";
-import Aside from "./homePage/Aside";
-import Main from "./homePage/Main";
-import Footer from "./homePage/Footer";
+import Nav from "./homePage/Nav.vue";
+import Header from "./homePage/Header.vue";
+import Aside from "./homePage/Aside.vue";
+import Main from "./homePage/Main.vue";
+import Footer from "./homePage/Footer.vue";
 export default {
   components: {
     Nav,
